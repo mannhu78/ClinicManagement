@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\ClinicManagement.Api\\ClinicManagement.Api\\wwwroot\\uploads\\cf2dfb41-e0e6-470c-bec0-3468b528f8c5.png",
+      "PackagePath": "staticwebassets\\uploads\\cf2dfb41-e0e6-470c-bec0-3468b528f8c5.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ClinicManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ClinicManagement.Api.props",
+      "PackagePath": "build\\ClinicManagement.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ClinicManagement.Api.props",
+      "PackagePath": "buildMultiTargeting\\ClinicManagement.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ClinicManagement.Api.props",
+      "PackagePath": "buildTransitive\\ClinicManagement.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

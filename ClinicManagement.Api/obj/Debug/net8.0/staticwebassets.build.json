@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "eSIiRbC/5RtP0qeEE5js3fu2jsWN3WxiXrU8zBdB4MY=",
+  "Source": "ClinicManagement.Api",
+  "BasePath": "_content/ClinicManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ClinicManagement.Api\\wwwroot",
+      "Source": "ClinicManagement.Api",
+      "ContentRoot": "G:\\ClinicManagement.Api\\ClinicManagement.Api\\wwwroot\\",
+      "BasePath": "_content/ClinicManagement.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\ClinicManagement.Api\\ClinicManagement.Api\\wwwroot\\uploads\\cf2dfb41-e0e6-470c-bec0-3468b528f8c5.png",
+      "SourceId": "ClinicManagement.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\ClinicManagement.Api\\ClinicManagement.Api\\wwwroot\\",
+      "BasePath": "_content/ClinicManagement.Api",
+      "RelativePath": "uploads/cf2dfb41-e0e6-470c-bec0-3468b528f8c5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cf2dfb41-e0e6-470c-bec0-3468b528f8c5.png"
+    }
+  ]
+}
